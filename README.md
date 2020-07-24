@@ -13,6 +13,7 @@ Link: https://limitless-garden-72412.herokuapp.com/
 - JavaScript
 - React Hooks 
 - Material Ui
+- Charts js
 - work with Api
 
 
