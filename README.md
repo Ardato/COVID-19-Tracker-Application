@@ -11,7 +11,7 @@ Link: https://limitless-garden-72412.herokuapp.com/
 ## Technologies
 - CSS3
 - JavaScript
-- React Hooks 
+- React with Hooks 
 - Material Ui
 - Charts js
 - work with Api
