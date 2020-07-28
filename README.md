@@ -12,9 +12,9 @@ Link: https://limitless-garden-72412.herokuapp.com/
 - CSS3
 - JavaScript
 - React with Hooks 
-- Material Ui
+- Material UI
 - Charts js
-- work with Api
+- Work with Api
 
 
 
